@@ -4,7 +4,7 @@
 
 I build web and mobile products and the systems behind them. My work spans interface design, frontend and mobile development, backend architecture, payments, access control, testing, and deployment.
 
-Since 2019, I've worked across client websites, technical publishing, teaching, commerce, and business applications. That work has grown into full-stack products, operational platforms, and developer education for an international audience, including a course published by freeCodeCamp.org and sponsored technical content with TestSprite.
+Since 2019, my work has spanned consumer platforms, business software, mobile applications, and technical education. Recent work includes Offscript, offline retail systems, and fleet operations. I also create developer education for an international audience, including a course published by freeCodeCamp.org and sponsored technical content with TestSprite.
 
 ## Selected Work
 
